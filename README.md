@@ -1,3 +1,4 @@
 # js-learn
 
-js learn files
+js exercise files
+Run by executing the command - node filename
